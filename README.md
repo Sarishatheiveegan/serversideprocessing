@@ -96,7 +96,8 @@ Area : <input type="text" name="area" value="{{area}}"></input>m<sup>2</sup><br/
 </html>
 ```
 ## OUTPUT:
-![output](image.png)
+![web e5](https://github.com/Sarishatheiveegan/serversideprocessing/assets/144979465/2d8cbc92-2f80-499e-88b1-6b6fd5bef3ed)
+
 
 ## Result:
 Thus the program executed successfully
